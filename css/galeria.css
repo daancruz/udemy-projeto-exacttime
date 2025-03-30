@@ -1,0 +1,12 @@
+#gallery .image-container {
+    background-size: cover;
+    background-position: center;
+    height: 225px;
+    cursor: pointer;
+    transition: .5s;
+    border: 3px solid #101010;
+}
+
+#gallery .image-container:hover {
+    border-color: #C09578;
+}

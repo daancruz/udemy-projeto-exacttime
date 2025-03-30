@@ -1,0 +1,11 @@
+#best-sellers {
+    padding: 4em 0;
+}
+
+#best-sellers .row {
+    margin: 0;
+}
+
+#best-sellers .col-md-3 {
+    padding: 0;
+}
