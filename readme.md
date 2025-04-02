@@ -9,6 +9,7 @@ Projeto feito no curso de Bootstrap na Udemy, ministrado por Matheus Battisti.
 - CSS
 - Bootstrap
 - Bootstrap Icons
+- JavaScript
 
 ## Página inicial
 ![exacttime](https://github.com/user-attachments/assets/f9f88478-5cd2-454f-862e-f2db35c9da01)
