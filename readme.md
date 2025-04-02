@@ -10,11 +10,6 @@ Projeto feito no curso de Bootstrap na Udemy, ministrado por Matheus Battisti.
 - Bootstrap
 - Bootstrap Icons
 
-## Status do Desenvolvimento
-
-O projeto agora conta com um arquivo .js responsável por requisitar dados de um arquivo .json, que armazena as informações das notícias e das perguntas frequentes. Essa abordagem reduz a redundância de código e torna a manutenção mais prática, permitindo adicionar, modificar ou remover dados de maneira mais eficiente.
-
-
 ## Página inicial
 ![exacttime](https://github.com/user-attachments/assets/f9f88478-5cd2-454f-862e-f2db35c9da01)
 
