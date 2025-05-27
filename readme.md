@@ -28,4 +28,4 @@ Para visualizar e rodar o projeto localmente, siga estas etapas:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/daansmyth/udemy-projeto-exacttime.git
+   git clone https://github.com/daancruz/udemy-projeto-exacttime.git
